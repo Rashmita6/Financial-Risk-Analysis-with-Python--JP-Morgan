@@ -13,6 +13,7 @@ This repository is a complete Customer Financial Behavior and Risk Analysis Repo
 
 # Business Problem
 Banks need to understand customer transaction behavior and identify early warning signs of financial risk. This project addresses the following questions:
+
 How do credits and debits behave over time across accounts?
 Which accounts show strong net inflow and which show heavy net outflow?
 Which accounts show risky patterns such as large withdrawals, unstable balances, or anomalous transactions?
